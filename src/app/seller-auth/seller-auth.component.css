@@ -1,0 +1,20 @@
+.common-form input {
+  height: 30px;
+  border: 1px solid blueviolet;
+  color: blueviolet;
+  margin-bottom: 10px;
+  outline: none;
+}
+
+h1 {
+  text-align: center;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  color: blueviolet;
+}
+.common-form button {
+  height: 30px;
+  border: 1px solid blueviolet;
+  color: blueviolet;
+  margin-top: 10px;
+}
